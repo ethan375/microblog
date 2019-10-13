@@ -6,6 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+flask = "*"
+flake8 = "*"
 
 [requires]
 python_version = "3.6"
